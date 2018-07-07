@@ -1,2 +1,3 @@
 # hello-world
-to create a repository
+
+my first example to use github.
